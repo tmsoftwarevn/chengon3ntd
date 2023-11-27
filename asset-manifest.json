@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d26f190.css",
+    "main.js": "/static/js/main.19873c08.js",
+    "static/js/787.174a0e6e.chunk.js": "/static/js/787.174a0e6e.chunk.js",
+    "static/media/Thiet Ke Che Ngon 3N fix 2.png": "/static/media/Thiet Ke Che Ngon 3N fix 2.11435644e0a955a18c5f.png",
+    "static/media/anh3.jpg": "/static/media/anh3.50160d8011fd3445c3b8.jpg",
+    "static/media/banner.jpg": "/static/media/banner.e6b4b218008270405bca.jpg",
+    "static/media/anh2.jpg": "/static/media/anh2.0504c00403487c736a12.jpg",
+    "static/media/nutquay.png": "/static/media/nutquay.50b1c2a47b386e5842d3.png",
+    "static/media/mui ten.png": "/static/media/mui ten.c93b04aab04ec4e4e070.png",
+    "index.html": "/index.html",
+    "main.9d26f190.css.map": "/static/css/main.9d26f190.css.map",
+    "main.19873c08.js.map": "/static/js/main.19873c08.js.map",
+    "787.174a0e6e.chunk.js.map": "/static/js/787.174a0e6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d26f190.css",
+    "static/js/main.19873c08.js"
+  ]
+}
